@@ -1,5 +1,8 @@
 # Laboratorio 4: Detección de Fraude con Regresión Logística
 
+### NOTA IMPORTANTE:
+#### Se redujo el dimensionamiento del dataset a únicamente 100,000 datos, ya que el rendimiento del equipo de cómputo para entrenar el modelo lo requería.
+
 Este repositorio contiene un notebook que implementa un modelo de regresión logística para detectar transacciones fraudulentas, utilizando el conjunto de datos Fraudulent Transactions Data disponible en Kaggle, sin embargo, el notebook incluye ya la descarga de los datos desde un bucket público de AWS. 
 
 Deberás mostrar exploración, preprocesamiento, entrenamiento del modelo y evaluación del desempeño.
